@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1490188769 source:d:\dropbox\algoritmos\binpacking3\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+	<vector>
+	<cmath>
+	<time.h>
+	<stdio.h>
+
